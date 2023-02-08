@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.26.1",
+    "chalk": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.5.4",
+    "node-telegram-bot-api": "^0.56.0",
+    "web3": "^1.7.1"
+  },
+  "scripts": {
+    "bot": "node main.js"
+  },
+  "type": "module"
+}
